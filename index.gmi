@@ -1,0 +1,29 @@
+````
+     _       _ _       _           _ _     _                  
+    | |     (_) |     | |         (_) |   | |                 
+  __| | __ _ _| |_   _| |__  _   _ _| | __| |  ___  _ __ __ _ 
+ / _` |/ _` | | | | | | '_ \| | | | | |/ _` | / _ \| '__/ _` |
+| (_| | (_| | | | |_| | |_) | |_| | | | (_| || (_) | | | (_| |
+ \__,_|\__,_|_|_|\__, |_.__/ \__,_|_|_|\__,_(_)___/|_|  \__, |
+                  __/ |                                  __/ |
+                 |___/                                  |___/ 
+```
+
+# dailybuild
+We are subset of daily programmers dedicated to cooperate and share our passion for building tech projects.
+This is our gemini capsule.
+
+Members are chatting on IRC:
+* network: Rizon
+* channel: #dailybuild
+
+## gemini sites
+=> gemini://rawtext.club/~sloum/geminews/ Geminews - text news without the hassle
+=> gemini://geminispace.info public search provider
+=> gemini://rawtext.club/~sloum/cgi/othello/ Play othello/reversi against a computer opponent over gemini
+
+
+## dailybuild's members personal projects
+=> https://dailybuild.org/dailybuild-comic.html comic strips
+=> https://sillypaste.herokuapp.com/ silly pastes
+=> https://gochan.org/ Gochan

@@ -1,0 +1,29 @@
+name: Deploy repo to the server
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Create SSH config folder
+        run: mkdir -pv ~/.ssh
+
+      - name: Add Known Hosts
+        run: |
+          echo "${{ secrets.SSH_DEPLOY_HOST_KEY }}" > ~/.ssh/known_hosts
+      
+      - name: Add SSH key
+        run: |
+          touch ~/.ssh/key
+          chmod 600 ~/.ssh/key
+          echo "${{ secrets.SSH_DEPLOY_RUNNER_KEY }}" > ~/.ssh/key
+
+      - name: Pull repo
+        run: ssh -q -i ~/.ssh/key "${{ secrets.SSH_DEPLOY_DESTINATION }}"
+                                       'cd /opt/gemini/gemini &&
+                                        git pull --force --no-rebase'
