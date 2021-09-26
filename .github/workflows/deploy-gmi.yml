@@ -26,4 +26,4 @@ jobs:
       - name: Pull repo
         run: ssh -q -i ~/.ssh/key "${{ secrets.SSH_DEPLOY_DESTINATION }}"
                                        'cd /opt/gemini/gemini &&
-                                        git pull --force --no-rebase'
+                                        git pull --force --no-rebase --recurse-submodules'
