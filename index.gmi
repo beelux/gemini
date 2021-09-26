@@ -24,6 +24,6 @@ Members are chatting on IRC:
 
 
 ## dailybuild's members personal projects
-=> https://dailybuild.org/dailybuild-comic.html comic strips
+=> comics.gmi comic strips
 => https://sillypaste.herokuapp.com/ silly pastes
 => https://gochan.org/ Gochan
