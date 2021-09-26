@@ -1,0 +1,17 @@
+# dailybuild comic strips
+
+=> images/luxemboye_new_dailybuild_server.jpg luxemboye handles whole dailybuild server migration
+=> images/luxemboye-cijob.jpg luxemboye and socraticDev cooperate to automate dailybuild website deployment
+=> images/cringe_clockwork_homescreen.png homescreen meetup with QUINTZ, prussian and adrift
+=> images/prussian-homeys.png prussian - ruling his turf
+=> images/doge-nevidka.gif nevodka - bleeding doge
+=> images/jemar.png Jemar - secret lake
+=> images/slapp_artesia.png SLAPP - night out
+=> images/daddy-photomaton.jpg doggos at photomaton
+=> images/irssucks_hummer.png Irssucks' new vehicule
+=> images/irsucs-doggos-harvard.png Irssucks in class at Harvard with daddy's dogs
+=> images/zuckerberg-flying-home.png Zuckerberg's flying back home
+=> images/zucker_know_enemy.jpg Zuckerberg's T-shirt design
+=> images/kiwi-crane-navy-IN-ACTION.png kiwi saving war ships from bombs
+=> images/blooom-ring-buffer-avec-totoro.png bloom working with ring buffer during heath wave
+=> images/irssucks-crows.jpg IRSSucks' T-shirt design
