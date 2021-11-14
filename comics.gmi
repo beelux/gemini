@@ -1,5 +1,7 @@
 # dailybuild comic strips
 
+=> images/slapp-socdev.png SLAPP_CORP' and socraticDev are going to visit their good friend daddy
+=> images/socdev-killjob.jpg socraticDev receives an order by French Mossad(tm) to execute a nefarious Italian agent. And he did.
 => images/luxemboye_new_dailybuild_server.jpg luxemboye handles whole dailybuild server migration
 => images/luxemboye-cijob.jpg luxemboye and socraticDev cooperate to automate dailybuild website deployment
 => images/cringe_clockwork_homescreen.png homescreen meetup with QUINTZ, prussian and adrift
