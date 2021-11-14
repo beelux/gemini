@@ -1,3 +1,4 @@
 [submodule "website"]
 	path = website
 	url = https://github.com/socraticDevBlog/dailybuild-2_0.git
+	branch = master
