@@ -1,7 +1,8 @@
-import requests
 from bs4 import BeautifulSoup
-page = requests.get("https://dailybuild.org/dailybuild-comic.html")
-soup = BeautifulSoup(page.content, 'html5lib')
+
+pageFile = open("website/dailybuild-comic.html", "r")
+soup = BeautifulSoup(pageFile.read(), 'html5lib')
+pageFile.close
 
 file = open("comics.gmi", "w")
 
