@@ -1,5 +1,6 @@
 # dailybuild comic strips
 
+=> images/wolowolo-comic.png nevodka, bloom, and Tekdude get highlighted by a bathing WOLOWOLO
 => images/noise_kali.png Kali, noise, and adrift discuss about milk
 => images/slapp-socdev.png SLAPP_CORP' and socraticDev are going to visit their good friend daddy
 => images/socdev-killjob.jpg socraticDev receives an order by French Mossad(tm) to execute a nefarious Italian agent. And he did.
