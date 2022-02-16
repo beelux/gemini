@@ -1,5 +1,7 @@
 # dailybuild comic strips
 
+=> images/snek-comic.png socraticDev travels to visit his good friend snEk
+=> images/homescreen-seattle-final.png nevodka and bloom just need more frens to have a great time. NGL!
 => images/wolowolo-comic.png nevodka, bloom, and Tekdude get highlighted by a bathing WOLOWOLO
 => images/noise_kali.png Kali, noise, and adrift discuss about milk
 => images/slapp-socdev.png SLAPP_CORP' and socraticDev are going to visit their good friend daddy
