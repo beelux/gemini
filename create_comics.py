@@ -9,6 +9,7 @@ file = open("comics.gmi", "w")
 file.write("# dailybuild comic strips\n\n")
 
 for element in soup.find_all('a', class_='fancybox'):
+  print(element.get('title'))
   file.write("=> " + element.get('href') + " " + element.get('title') + "\n")
 
 file.close() 
