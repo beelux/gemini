@@ -10,20 +10,22 @@
 ```
 
 # dailybuild
-We are subset of daily programmers dedicated to cooperate and share our passion for building tech projects.
-This is our gemini capsule.
+We are subset of daily programmers dedicated to cooperate and share our passion for building tech projects. Feel free to join us!
 
-Members are chatting on IRC:
-* network: Rizon
-* channel: #dailybuild
+Our members are chatting on IRC:
+* Network: irc.rizon.net (Standard: 6667 | SSL: 6697)
+* Channel: #dailybuild
 
-## gemini sites
+=> https://dailybuild.org/chat.html Our chatroom on the web (no installation needed)
+=> comics.gmi dailybuild exclusive comic strips
+
+## gemini capsules
 => gemini://rawtext.club/~sloum/geminews/ Geminews - text news without the hassle
-=> gemini://geminispace.info public search provider
+=> gemini://geminispace.info Gemini search engine
 => gemini://rawtext.club/~sloum/cgi/othello/ Play othello/reversi against a computer opponent over gemini
+=> gemini://gemini.circumlunar.space/ Project Gemini homepage
 
 
 ## dailybuild's members personal projects
-=> comics.gmi comic strips
 => https://sillypaste.herokuapp.com/ silly pastes
 => https://gochan.org/ Gochan
