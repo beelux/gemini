@@ -1,4 +1,4 @@
-name: Update to new comics
+name: Update comics
 
 on:
   workflow_dispatch:
