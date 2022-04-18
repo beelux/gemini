@@ -1,0 +1,47 @@
+name: Update to new comics
+
+on:
+  workflow_dispatch:
+    inputs:
+      createCommit:
+        description: 'Runner creates a commit on master branch'
+        required: true
+        default: 'false'
+        type: boolean
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v2
+        with:
+          ref: 'actions'
+
+      - name: Update website submodule
+        run: |
+          git submodule update --remote website
+      
+      - name: Setup Python for create_comics script
+        run: |
+          # Install Beautiful Soup
+          sudo apt-get install python3-bs4
+
+      - name: Recreate comics
+        run: ./create_comics.py
+
+      - name: Check for major issues
+        run: ./checkBigDiff.sh
+
+      - name: Setup Git
+        if:  ${{ github.event.inputs.createCommit == 'true' }} 
+        run: |
+          git config user.name "GitHub Actions Runner"
+          git config user.email "<>"
+
+      - name: Git commit
+        if:  ${{ github.event.inputs.createCommit == 'true' }}
+        run: |
+          git add comics.gmi website
+          git commit -m "Updated comics $(date -u -Iminutes)"
+          git push origin master
