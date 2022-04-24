@@ -1,4 +1,4 @@
-name: Update comics
+name: Update gemini capsule with new website submodule (including comics)
 
 on:
   workflow_dispatch:
