@@ -1,5 +1,6 @@
 # dailybuild comic strips
 
+=> images/quintz_new_place.png quintz new place comic
 => images/coming-soon-fox.png coming soon as a comic strip
 => images/hotline.png call the hotline, there is always hope
 => images/snek-comic.png socraticDev travels to visit his good friend snEk
