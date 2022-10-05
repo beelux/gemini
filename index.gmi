@@ -13,7 +13,7 @@
 We are subset of daily programmers dedicated to cooperate and share our passion for building tech projects. Feel free to join us!
 
 Our members are chatting on IRC:
-* Network: irc.rizon.net (Standard: 6667 | SSL: 6697)
+* Network: irc.rizon.net (Standard: 6667 | TLS: 6697)
 * Channel: #dailybuild
 
 => https://dailybuild.org/chat.html Our chatroom on the web (no installation needed)
