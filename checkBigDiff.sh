@@ -5,7 +5,7 @@ DEL=$(echo $DIFF | cut -d" " -f2)
 
 git --no-pager diff
 
-if [ $ADD -gt 2 ] && [ $DEL -gt 2 ]
+if [[ $ADD > 2 && $DEL < 2 ]]
 then
     exit 1
 else
