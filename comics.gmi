@@ -1,5 +1,7 @@
 # dailybuild comic strips
 
+=> images/vlk-shock.png all IRC frens wish vLK to get better soon
+=> images/bard_water.png SLAPP_CORP brings water tower to solve bard's home issue with water
 => images/fox_reineke_rabbits.png fox reineke bacon feast
 => images/daddy_shower_fight.png daddy standing his ground
 => images/daddy-summer-of-2022.png daddy-o rockstar
