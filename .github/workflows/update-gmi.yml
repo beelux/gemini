@@ -10,7 +10,7 @@ on:
         type: boolean
 
 jobs:
-  deploy:
+  update-comics:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
