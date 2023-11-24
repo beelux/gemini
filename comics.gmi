@@ -1,5 +1,6 @@
 # dailybuild comic strips
 
+=> images/peach.png winny and peach enjoy a day at the park
 => images/vlk-shock.png all IRC frens wish vLK to get better soon
 => images/bard_water.png SLAPP_CORP brings water tower to solve bard's home issue with water
 => images/fox_reineke_rabbits.png fox reineke bacon feast
